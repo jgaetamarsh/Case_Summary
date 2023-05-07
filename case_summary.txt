@@ -1,0 +1,13 @@
+Create a summary of this Supreme Court opinion. 
+
+In the summary, including the case name, citation, parties, decision date, who authored the opinion, 
+and a summary of the Syllabus. Only summarize what is there and do not add in any information that is not within the Syllabus: 
+
+
+
+
+<<CHUNK>>
+
+
+
+Summary:
